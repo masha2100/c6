@@ -1,0 +1,92 @@
+.audio-image{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 600px;
+    left: 585px;
+    z-index: 2;
+}
+.shum-image{
+    border-radius: 9%;
+    position: absolute;
+    top: 37px;
+    left: 633px;
+    z-index: 1;
+}
+.block{
+    background-color: azure;
+    width: 450px;
+    height: 550px;
+    border-radius: 9%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+.play-image{
+    position: relative;
+    left: 60px;
+    top: 25px;
+}
+
+.del-image{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    top: 37px;
+    left: 579px;
+    z-index: 2;
+}
+.audio-image{
+    position: absolute;
+    top: 400px;
+    width: 350px;
+    left: 595px;
+}
+.dowl-png{
+    position: absolute;
+    top: 340px;
+    width: 40px;
+    height: 40px;
+    left: 730px;
+    z-index: 7;
+}
+.play-image{
+    position: absolute;
+    top: 340px;
+    width: 40px;
+    height: 40px;
+    left: 745px;
+    z-index: 7;
+}
+.font-image{
+    position: absolute;
+    top: 480px;
+    width: 40px;
+    height: 40px;
+    left: 620px;
+    z-index: 7;
+}
+.del1-image{
+    position: absolute;
+    top: 480px;
+    width: 40px;
+    height: 40px;
+    left: 700px;
+    z-index: 7;
+}
+.set-image{
+    position: absolute;
+    top: 480px;
+    width: 40px;
+    height: 40px;
+    left: 780px;
+    z-index: 7;
+}
+.share-image{
+    position: absolute;
+    top: 480px;
+    width: 40px;
+    height: 40px;
+    left: 860px;
+    z-index: 7;
+}
